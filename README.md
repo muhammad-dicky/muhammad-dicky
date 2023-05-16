@@ -2,6 +2,11 @@
 I am a passionate web developer with experience in various technologies such as Codeigniter, Laravel, React.js, Next.js, Tailwind CSS, and Bootstrap. I love building dynamic and user-friendly web applications that provide seamless user experiences.
 
 ## Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,laravel,react, nextjs, tailwind, bootstrap" />
+  </a>
+</p>
 - Codeigniter
 - Laravel
 - React.js
