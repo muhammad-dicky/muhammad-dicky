@@ -12,8 +12,7 @@ I am a passionate web developer with experience in various technologies such as 
 ## Hobby
 
 <div id="header" align="center">
-  <img src="https://media/2LhSlj6xwJoeYHTMiO/giphy.gif" width="100"/>
-  <iframe src="https://giphy.com/embed/2LhSlj6xwJoeYHTMiO" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-genshin-qiqi-2LhSlj6xwJoeYHTMiO">via GIPHY</a></p>
+  <img src="https://media.giphy.com/media/2LhSlj6xwJoeYHTMiO/giphy.gif" width="100"/>
 </div>
 
 When I'm not coding, I enjoy spending my leisure time playing relaxing games like Genshin Impact or competitive games like Valorant. These games provide me with a balance of relaxation and excitement.
