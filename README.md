@@ -10,7 +10,9 @@ I am a passionate web developer with experience in various technologies such as 
 - Bootstrap
 
 ## Hobby
-![](https://github.com/muhammad-dicky/https://media.giphy.com/media/2LhSlj6xwJoeYHTMiO/giphy.gif)
+<div id="header" align="center">
+  <img src="media/2LhSlj6xwJoeYHTMiO/giphy.gif" width="100"/>
+</div>
 When I'm not coding, I enjoy spending my leisure time playing relaxing games like Genshin Impact or competitive games like Valorant. These games provide me with a balance of relaxation and excitement.
 
 Feel free to explore the repository to learn more about my projects and skills. If you have any questions or collaboration opportunities, please feel free to reach out to me.
