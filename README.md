@@ -4,9 +4,11 @@ I am a passionate web developer with experience in various technologies such as 
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,laravel,react, nextjs, tailwind, bootstrap" />
+    <img src="https://skillicons.dev/icons?i=git,laravel,react,nextjs,tailwind,bootstrap,figma" />
   </a>
 </p>
+
+- Figma
 - Codeigniter
 - Laravel
 - React.js
